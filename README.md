@@ -12,7 +12,7 @@ This repository serves as my personal code reference and learning log for master
 | :--- | :--- | :--- |
 | **Module 1: Python Basics** | Types, expressions, variables, string operations, and regular expressions (`re` module). | 🟢 Completed |
 | **Module 2: Python Data Structures** | Lists, tuples, sets, dictionaries, and conditional logic. | 🟢 Completed |
-| **Module 3: Python Programming Fundamentals** | Loops, functions, objects, and classes. | ⏳ Upcoming |
+| **Module 3: Python Programming Fundamentals** | Loops, functions, objects, and classes. | 🟢 Completed |
 | **Module 4: Working with Data** | Using `Pandas` and `NumPy` for data manipulation, file I/O, and data wrangling. | ⏳ Upcoming |
 | **Module 5: APIs and Data Collection** | Working with APIs, requests, and gathering data from the web. | ⏳ Upcoming |
 
